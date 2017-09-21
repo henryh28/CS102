@@ -1,0 +1,52 @@
+
+
+
+
+(gcc = c compiler, g++ = c++ compiler)
+
+
+gcc -o nuweb.exe *.c
+
+nuweb p2_10.w
+g++ p2_10.exe p2_10.cpp
+
+get "miktex", "mingw"
+
+
+
+cs 116
+
+need "big c++" - horstmann
+
+gcc -o nuweb.exe *.c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
